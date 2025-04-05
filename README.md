@@ -53,18 +53,18 @@ A program that calculates employee pay using hours worked and hourly rate, then 
 
 ---
 
-### 3. Numbers & Weights Processor (Python)
+### 3. Menu Generator (C++)
 This Python program collects a list of numbers and weights from the user, then performs average calculations and sorts the weights.
 
 #### What I Learned:
-- Python list manipulation and loops.
-- Writing functions to break down a task into manageable pieces.
-- Input validation and output formatting.
+- Object-Oriented programming (OOP)
+- File (I/O) managment/handling
+- Transaction logic and arithmetic operators
 
 #### Challenges I Overcame:
-- Catching and handling invalid input smoothly.
-- Keeping the program logic clean and efficient.
-- Writing statistical calculations without built-in libraries.
+- Structuring and managing a program with multiple interacting files 
+- Modular code structure ensuring modications easy to implement
+- Properly managing errors like invalid input -> providing feedback to users
 
 ---
 
